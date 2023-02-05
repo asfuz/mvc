@@ -1,0 +1,19 @@
+{
+    "name": "asfuz/mvc",
+    "description": "simple mvc framework",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Asfuz\\Mvc\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "asfuz",
+            "email": "ubuntusamandar@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
